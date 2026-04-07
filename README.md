@@ -81,15 +81,16 @@ Langfuse развернут в Self-hosted режиме (локально). Вс
 > 🗣 Мнение Операционного директора: "Денис "подсветил" работу ИИ, и мы увидели, где теряем деньги. Половина бюджета уходила на то, чтобы бот "рассуждал сам с собой" в скрытом режиме. Оптимизировали структуру — бот полетел, а счета уменьшились."
 
 ## 📸 6. Доказательства работы (Proof of Work)
-<p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_СКРИН_LANGFUSE" width="80%" alt="Langfuse Dashboard">
+<div align="center">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_6.jpg" width="45%" alt="Lanfuse Proof 1">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_7.jpg" width="45%" alt="Lanfuse Proof 2">
+</div>
+<div align="center">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_8.jpg" width="45%" alt="Lanfuse Proof 3">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_10.jpg" width="45%" alt="Lanfuse Proof 4">
+</div>
 <br>
-<i>Рис 1. Интеграция телеметрии Langfuse: сквозной мониторинг затрат (Cost) и задержек (Latency) в реальном времени.</i>
-</p>
-<p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_СКРИН_ЭКОНОМИИ" width="80%" alt="Optimization Results">
-<br>
-<i>Рис 2. Рефакторинг промпт-структуры: отказ от "свободных рассуждений" в пользу жесткого чеклиста позволил снизить объем output-токенов на 40%.</i>
+<i>Рис 1. Рефакторинг промпт-структуры: отказ от "свободных рассуждений" в пользу жесткого чеклиста позволил снизить объем output-токенов на 40%.</i>
 </p>
 
 **🤝 Как мы можем сотрудничать?**
