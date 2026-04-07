@@ -1,6 +1,6 @@
 # llm-observability-audit
 
-![LLM Observability Cover](ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_5)
+![LLM Observability Cover](https://github.com/deniskosminai/llm-observability-audit/blob/main/img/LLM%20OBSERVABILITY.png)
 
 # LLM Observability & Audit: Оптимизация затрат на базе Langfuse
 
