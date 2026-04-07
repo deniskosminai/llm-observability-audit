@@ -82,8 +82,9 @@ Langfuse развернут в Self-hosted режиме (локально). Вс
 
 ## 📸 6. Доказательства работы (Proof of Work)
 <div align="center">
-  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_6.jpg" width="45%" alt="Lanfuse Proof 1">
-  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_7.jpg" width="45%" alt="Lanfuse Proof 2">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_40.jpg" width="32%" alt="Lanfuse Proof 0">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_6.jpg" width="32%" alt="Lanfuse Proof 1">
+  <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_7.jpg" width="32%" alt="Lanfuse Proof 2">
 </div>
 <div align="center">
   <img src="https://github.com/deniskosminai/llm-observability-audit/blob/main/img/Screenshot_8.jpg" width="45%" alt="Lanfuse Proof 3">
